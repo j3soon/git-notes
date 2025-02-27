@@ -1,8 +1,10 @@
 # Git Notes
 
-Some notes on using Git.
+Table of Contents:
 
-This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/git/).
+- [Conventional Commits](./conventional-commits.md)
+
+> This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/git/). The page source can be found at [j3soon/git-notes](https://github.com/j3soon/git-notes).
 
 ## Contributors
 
